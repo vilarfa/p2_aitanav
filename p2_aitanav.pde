@@ -1,0 +1,7 @@
+void setup() {
+  size(500, 500);
+  noFill();
+}
+void draw() {
+  aitanav (0, 0);
+};
